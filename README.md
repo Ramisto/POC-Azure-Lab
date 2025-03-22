@@ -6,7 +6,7 @@ Several powershell scripts for testing Microsoft Azure functionalities.
 
 | Script | Description |
 |---|---|
-| CreateVmWindowsInfra.ps1 | Create a virtual network and a windows virtual machine in the resource group |
+| [CreateVmWindowsInfra.ps1](./CreateVmWindowsInfra.ps1) | Create a virtual network and a windows virtual machine in the resource group |
 
 ## Getting Started
 
