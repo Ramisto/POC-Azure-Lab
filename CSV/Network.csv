@@ -1,0 +1,2 @@
+SubnetName;SubnetAddressPrefix;NetworkName;NetworkAddressPrefix;
+PocSubnet;192.168.1.0/24;PocVnet;192.168.0.0/16
