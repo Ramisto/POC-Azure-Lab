@@ -33,7 +33,7 @@ Open the powershell script with the "Windows Powershell ISE" console.
 
 ## Help
 
-Create an [issue](https://docs.github.com/fr/issues/tracking-your-work-with-issues/using-issues/creating-an-issue) to get help.
+Create an [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue) to get help.
 
 ## Contributor
 
