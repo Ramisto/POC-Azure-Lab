@@ -22,6 +22,7 @@ Several powershell scripts for testing Microsoft Azure functionalities.
 ### Variables to be modified
 
 - **CreateVmWindowsInfra.ps1** :
+  - CSV files 
   - [line 20] $subscriptionName = Enter your Azure subscription name
   - [line 40] $getGroup = Define your Azure resource group name
   - [Line 41] $getVm = Define your Azure VM name
